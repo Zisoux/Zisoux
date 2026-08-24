@@ -6,7 +6,7 @@ I have mainly worked on web and mobile application development using Spring Boot
 
 Recently, I conducted research on optimizing repeated external API calls using Redis caching in a real-time translation chat service.
 
-## Research Interests
+## 🔎 Research Interests
 
 - System Software
 - Server Systems
@@ -14,7 +14,7 @@ Recently, I conducted research on optimizing repeated external API calls using R
 - Cloud Computing
 - Performance Optimization
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 **Backend**
 - Java, Spring Boot
@@ -31,9 +31,9 @@ Recently, I conducted research on optimizing repeated external API calls using R
 **Performance Testing**
 - Apache JMeter
 
-## Featured Projects
+## 🗃️ Featured Projects
 
-### PalDari
+### 👨‍👩‍👧‍👦PalDari
 Real-time translation chat platform for global communication.
 
 - Spring Boot + Flutter
@@ -42,7 +42,7 @@ Real-time translation chat platform for global communication.
 - External translation API integration
 - Redis caching for translation results
 
-### UniLife
+### 🗓️UniLife
 University life management web application.
 
 - Spring Boot + Thymeleaf
