@@ -2,9 +2,9 @@
 
 Backend developer interested in **system software, server systems, and performance optimization**.
 
-I have mainly focused on backend development using Java and Spring Boot, including REST APIs, authentication, database integration, and real-time communication.
+I have primarily focused on backend development using Java and Spring Boot, including REST APIs, authentication, database integration, and real-time communication.
 
-Through these projects, I became interested in understanding system performance beyond application-level implementation.
+Through these development experiences, I became interested in understanding system performance beyond application-level implementation.
 
 Recently, I conducted research on optimizing repeated external API calls using Redis caching in a real-time translation chat service.
 
@@ -27,13 +27,12 @@ Recently, I conducted research on optimizing repeated external API calls using R
 ## 🗃️ Featured Projects
 
 ### 👨‍👩‍👧‍👦PalDari
-Real-time translation chat platform for global communication.
+Global community platform with real-time translation chat.
 
-- Spring Boot + Flutter
+- Spring Boot backend development
 - JWT & Google OAuth2 authentication
-- WebSocket/STOMP real-time chat
+- WebSocket/STOMP-based real-time chat
 - External translation API integration
-- Redis caching for translation results
 
 ### 🗓️UniLife
 University life management web application.
