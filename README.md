@@ -2,7 +2,9 @@
 
 Backend developer interested in **system software, server systems, and performance optimization**.
 
-I have mainly worked on web and mobile application development using Spring Boot and Flutter. Through these projects, I became interested in understanding system performance beyond application-level implementation.
+I have mainly focused on backend development using Java and Spring Boot, including REST APIs, authentication, database integration, and real-time communication.
+
+Through these projects, I became interested in understanding system performance beyond application-level implementation.
 
 Recently, I conducted research on optimizing repeated external API calls using Redis caching in a real-time translation chat service.
 
@@ -16,20 +18,11 @@ Recently, I conducted research on optimizing repeated external API calls using R
 
 ## 🛠️ Technical Skills
 
-**Backend**
-- Java, Spring Boot
-- Spring Security, JPA
-- REST API, WebSocket/STOMP
-
-**Database & Caching**
-- MySQL
-- Redis
-
-**Application**
-- Flutter, Dart
-
-**Performance Testing**
-- Apache JMeter
+- **Backend:** Java, Spring Boot, Spring Security, JPA
+- **Database & Cache:** MySQL, Redis
+- **Communication:** REST API, WebSocket/STOMP
+- **Performance Testing:** Apache JMeter
+- **Authentication:** JWT, OAuth2
 
 ## 🗃️ Featured Projects
 
