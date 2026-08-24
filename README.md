@@ -1,16 +1,50 @@
-## Hi there 👋
+# Jisu Hong
 
-<!--
-**Zisoux/Zisoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer interested in **system software, server systems, and performance optimization**.
 
-Here are some ideas to get you started:
+I have mainly worked on web and mobile application development using Spring Boot and Flutter. Through these projects, I became interested in understanding system performance beyond application-level implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recently, I conducted research on optimizing repeated external API calls using Redis caching in a real-time translation chat service.
+
+## Research Interests
+
+- System Software
+- Server Systems
+- Distributed Systems
+- Cloud Computing
+- Performance Optimization
+
+## Technical Skills
+
+**Backend**
+- Java, Spring Boot
+- Spring Security, JPA
+- REST API, WebSocket/STOMP
+
+**Database & Caching**
+- MySQL
+- Redis
+
+**Application**
+- Flutter, Dart
+
+**Performance Testing**
+- Apache JMeter
+
+## Featured Projects
+
+### PalDari
+Real-time translation chat platform for global communication.
+
+- Spring Boot + Flutter
+- JWT & Google OAuth2 authentication
+- WebSocket/STOMP real-time chat
+- External translation API integration
+- Redis caching for translation results
+
+### UniLife
+University life management web application.
+
+- Spring Boot + Thymeleaf
+- MySQL / JPA
+- Schedule and GPA management
